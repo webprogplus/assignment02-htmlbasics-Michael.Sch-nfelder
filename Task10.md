@@ -89,10 +89,12 @@
 
 
   <h2>Contact</h2>
-  <p>123 Fourth Street<br>
-  Arkham, MA 65340</p>
-    
-  <p>colors@miskatonic.edu</p>
+  <address>
+   123 Fourth Street<br>
+   Arkham, MA 65340<br>
+    <br>
+   colors@miskatonic.edu
+  </address>
         
     
   <h2>Socialize</h2>

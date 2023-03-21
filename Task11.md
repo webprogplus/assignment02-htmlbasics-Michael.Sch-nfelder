@@ -1,28 +1,4 @@
-## Task11
-Right-click on **chartreuse-01.html**, duplicate it, & name it **chartreuse-02.html**.
 
-Reproduce this webpage: [Chartreuse No. 2](pdfs/chartreuse-02.pdf).
-
-This assignment introduces the following elements. You should use every one of these elements in order to complete the assignment (of course, you will also use some—maybe all—of the elements you used in previous assignments as well!).
-```
-<video>
-<source>
-<figure>
-<figcaption>
-<img>
-Character entities (not an HTML element, but part of HTML nonetheless)
-```
-The requirede images and videos are in the resepctive folders. When you place `<video>` in your webpage, the width is 1280 & the height is 720. Use [chartreuse-monastery.jpg](images/chartreuse-monastery.jpg) as the poster image for the video.
-
-Insert the images in the appropriate locations inside `<figure> `.
-
-- A few other things:
-
-    - Note the examples of <figcaption> in the document (the text under the images).
-    - Don’t forget to include the height & width attributes. How do you get those? You can open an image in Atom and you will find its size in the bottom left of Atom.
-    - Don’t forget the alt attributes for the `<img>`s. Hmmm… where could you find the - text you could use for the alt?
-
-The following text should be quoted (using the appropriate element!): **“the only liqueur in the world with a completely natural green colour”**.
 
 <html>
 
@@ -69,7 +45,7 @@ The following text should be quoted (using the appropriate element!): **“the o
   Carthusian charter house when he died in 1404.</p>
 
      
-  <video poster="C:\Users\Gast12\github-classroom\webprogplus\assignment02-htmlbasics-Michael2836\images\chartreuse-monastery.jpg" controls>
+  <video poster="chartreuse-monastery.jpg" controls>
   <source src="C:\Users\Gast12\github-classroom\webprogplus\assignment02-htmlbasics-Michael2836\videoschartreuse-monastery.mp4" type="video/mp4">
    Your browser does not support the video tag.
   </video>
@@ -102,13 +78,22 @@ The following text should be quoted (using the appropriate element!): **“the o
 
   <figure>
 
-
-
-
-
-
-
+   <img src="chartreuse-art.jpg" alt="Abstrakte Kunst">
+    <figcaption>Figure 1. Chartreuse Series Abstract VII by Ginny Schmidt</figcaption>
   </figure>
+
+  <figure>
+
+   <img src="chartreuse-dress.jpg" alt="Mode Kleid">
+   <figcaption>Figure 2. Chartreuse Dress by John Wu</figcaption>
+  </figure>
+
+  <figure>
+
+   <img src="images\chartreuse-liqueur.jpg" alt="Likör">
+   <figcaption>Figure 3. The famous Chartreuse liqueur, "the only liqueur in the world with a completely natural green colour"</figcaption>
+  </figure>
+
 
   <dt><h3>Chartreuse (web color)</h3></dt>
   <dt>The web color chartreuse is the color precisely halfway between green and yellow, so it is 50% <br>
@@ -135,10 +120,12 @@ The following text should be quoted (using the appropriate element!): **“the o
 
 
   <h2>Contact</h2>
-  <p>123 Fourth Street<br>
-  Arkham, MA 65340</p>
-    
-  <p>colors@miskatonic.edu</p>
+  <address>
+   123 Fourth Street<br>
+   Arkham, MA 65340<br>
+    <br>
+   colors@miskatonic.edu
+  </address>
         
     
   <h2>Socialize</h2>
