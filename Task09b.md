@@ -1,20 +1,137 @@
-## Task09a
-Create a new file named **chartreuse-00b.html**.
-In this file reproduce the content of Pre-Chartreuse No. 2. Copy the text from the [PDF](pdfs/pre-chartreuse-02.pdf).
+<html>
+
+<head>
+    <title>Chartreuse (Yellow-green)</title>
+    <h1>Chartreuse (Yellow-green)</h1>
+</head>
+<style>
+    body{
+        margin: 20px;
+    }
+    p {
+        line-height: 1.2em;
+    }
+</style>
+
+<body>
+    <ul>
+        <li>In Nature</li>
+        <li>Psychology</li>
+        <li>Color Palettes</li>
+        <li>Chartreuse Liqueur</li>
+      </ul>
+      <ol type ="1">
+        <li>In Nature</li>
+        <li>Psychology</li>
+        <li>Color Palettes</li>
+        <li>Chartreuse Liqueur</li>
+      </ol>
+
+    <h2>Etymology</h2>
+
+    <p>The French word chartreuse means "charter house". The monasteries that the monks of the <br>
+     Carthusian order (who started producing Chartreuse liqueur in 1764) live  in, the first one of which <br>
+     was established in 1082 by Saint Bruno, are called charter houses because they were chartered— <br>
+     and given generous material support—by the Duke of Burgundy known as Philip the Bold when he <br>
+     took over the area in 1378. Philip the Bold's elaborately decorated tomb was initially installed at a <br>
+     Carthusian charter house when he died in 1404.</p>
+
+    <h2>Variations of chartreuse</h2>
+
+    <p>There are many yellow-greens.</p>
+
+    <dl>
+        <dt><h3>Mindaro</h3></dt>
+        <dt>The first use in English of the color name mindaro was in 2001, when it was formulated as one of <br>
+          the colors on the Xona.com Color List.</dt>
+        <dt><h3>Lime</h3></dt>
+        <dt>Lime is a color that is a representation of the color of the citrus fruit called limes. <br>
+           The first recorded use of lime green as a color name in English was in 1890!</dt>
+        <dt><h3>Pistachio</h3></dt>
+        <dt>The color pistachio, also called pistachio green, is a representation of the color of the interior meat of <br>
+           a pistachio nut. It is also a representation of the color of pistachio ice cream (one of the flavors of <br>
+           ice cream in spumoni), and of pistachio pudding.</dt>
+           
+          <p></p>
+                      
+           <dt>The first recorded use of pistachio green as a color name in English was in 1789.</dt>
+
+        <dt><h3>Chartreuse (web color)</h3></dt>
+        <dt>The web color chartreuse is the color precisely halfway between green and yellow, so it is 50% <br>
+          green and 50% yellow.</dt> 
+    </dl>
+
+    <h4>Color coordinates</h4>
+    <dl>
+        <dt>Hex</dt>
+        <dd>#7FFF00</dd>
+        <dt>RGB</dt>
+        <dd>(127, 255, 0)</dd>
+        <dt>CMYK</dt>
+        <dd>(50, 0, 100, 0)</dd>
+        <dt>HSV</dt>
+        <dd>(90°, 100%, 100%)</dd>
+      </dl>
 
 
-This assignment introduces the following elements. You should use every one of these elements in order to complete the assignment (of course, you will also use some—maybe all—of the elements you used in the last assignment as well!).
-Duplicate Chartreuse00.html and rename it to Chartreuse01.html.
-```
-<ul>
-<ol>
-<li>
-<dl>
-<dt>
-<dd>
-<h1>
-<h2>
-<h3>
-<h4>
-```
-Don’t forget that there is a difference between the `<title>` in the `<head>` the title that humans see in the viewport.
+        <h2>Contact</h2>
+        <p>123 Fourth Street<br>
+        Arkham, MA 65340</p>
+    
+        <p>colors@miskatonic.edu</p>
+        
+    
+        <h2>Socialize</h2>
+        <ul>
+            <li>Twitter</li>
+            <li>Reddit</li>
+            <li>Instagram</li>
+            <li>ColRD</li>
+          </ul>
+    
+    
+        <h2>Tools</h2>
+        <ul>
+            <li>Encycolorpedia</li>
+            <li>Adobe Kuler</li>
+            <li>Color Hunter</li>
+            <li>MulticolorEngine</li>
+          </ul>
+    
+    
+        <h2>News</h2>
+        <ul>
+            <li>Scientists Made Color-Changing Paint Out of Gold Nanoparticles</li>
+            <li>'Growing' The Blackest Color In The World</li>
+    
+          </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+

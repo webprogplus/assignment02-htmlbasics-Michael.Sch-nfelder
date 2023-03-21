@@ -1,14 +1,87 @@
-## Task09a
-Create a new file named **chartreuse-00a.html**.
-In this file reproduce the content of Pre-Chartreuse No. 1. Copy the text from the [PDF](pdfs/pre-chartreuse-01.pdf).
 
-This assignment introduces the following elements. You should use every one of these elements in order to complete the assignment:
-```
+<html>
+  
+
+<head>
+      <title>Chartreuse (Yellow-green)</title>
+      
+  </head>
+<body>
+  <p>Chartreuse (Yellow-green)</p>
+	
+  <p>Chartreuse is a color midway between yellow & green that was named due of its resemblance to the green color <br>
+    of one of the French liqueurs called green chartreuse, introduced in 1764.</p>
+   
+   <p>Etymology</p>
+   
+   <p>The French word chartreuse means "charter house". The monasteries that the monks of the Carthusian order <br>
+   (who started producing Chartreuse liqueur in 1764) live in, the first one of which was established in 1082 by Saint <br>
+   Bruno, are called charter houses because they were chartered—and given generous material support—by the <br> 
+   Duke of Burgundy known as Philip the Bold when he took over the area in 1378. Philip the Bold's elaborately <br> 
+   decorated tomb was initially installed at a Carthusian charter house when he died in 1404.</p>
+   
+   <p>Variations of chartreuse</p>
+
+   <p>There are many yellow-greens.</p>
+   
+   <p>Mindaro</p>
+
+   <p>The first use in English of the color name mindaro was in 2001, when it was formulated as one of the colors on <br>
+      the Xona.com Color List.</p>
+
+   <p>Lime</p>
+
+   <p>Lime is a color that is a representation of the color of the citrus fruit called limes. <br>
+      The first recorded use of lime green as a color name in English was in 1890!</p>
+
+   <p>Pistachio</p>
+   <p>The color pistachio, also called pistachio green, a representation of the color of the interior meat of a pistachio <br>
+    nut. It is also a representation of the color of pistachio ice cream (one of the flavors of ice cream in spumoni), and <br>
+    of pistachio pudding. </p>
+    
+
+    <p>The first recorded use of pistachio green as a color name in English was in 1789.</p>
+
+
+    <p>Chartreuse (web color)</p>
+
+    <p>The web color chartreuse is the color precisely halfway between green and yellow, so it is 50% green and 50% <br>
+       yellow.</p>
+
+    <p>Color coordinates</p>  
+
+    <p>Hex: #7FFF00</p>
+    <p>RGB: (127, 255, 0)</p>
+    <p>CMYK: (50, 0, 100, 0)</p>
+    <p>HSV: (90°, 100%, 100%)</p>
+
+    <p>Contact</p>  
+
+    <p>123 Fourth Street</p> 
+    <p>Arkham MA, 65340</p>
+
+    <p>colors@miskatonic.edu</p> 
+
+    <p>Socialize</p>
+
+    <p>Social media goes here</p>
+
+    <p>Tools</p>
+
+    <p>Color tools go here</p> 
+
+    <p>News</p>
+
+    <p>Links to news go here</p> 
+
+</body>
+</html>
+
+
+
 <html>
 <head>
 <body>
 <title>
 <p>
 <br>
-```
-Remember, `<title>` is not what you see in the viewport—that would be an `<h1>` (which you will learn about shortly). So how do you figure out what the `<title>` would be? Remember what is on the slide for `<title>` in the Web Development: The Absolute Basics presentation: “Humans see that title on tabs”. Unfortunately, you’re getting a PDF to copy, so you can’t see what’s in `<title>`, so, out of the goodness of my heart, I’ll help you out & tell you that the `<title>` is Chartreuse :: Colors.
