@@ -40,39 +40,39 @@
     of pistachio pudding. </p>
     
 
-    <p>The first recorded use of pistachio green as a color name in English was in 1789.</p>
+   <p>The first recorded use of pistachio green as a color name in English was in 1789.</p>
 
 
-    <p>Chartreuse (web color)</p>
+   <p>Chartreuse (web color)</p>
 
-    <p>The web color chartreuse is the color precisely halfway between green and yellow, so it is 50% green and 50% <br>
-       yellow.</p>
+   <p>The web color chartreuse is the color precisely halfway between green and yellow, so it is 50% green and 50% <br>
+      yellow.</p>
 
-    <p>Color coordinates</p>  
+   <p>Color coordinates</p>  
 
-    <p>Hex: #7FFF00</p>
-    <p>RGB: (127, 255, 0)</p>
-    <p>CMYK: (50, 0, 100, 0)</p>
-    <p>HSV: (90°, 100%, 100%)</p>
+   <p>Hex: #7FFF00</p>
+   <p>RGB: (127, 255, 0)</p>
+   <p>CMYK: (50, 0, 100, 0)</p>
+   <p>HSV: (90°, 100%, 100%)</p>
 
-    <p>Contact</p>  
+   <p>Contact</p>  
 
-    <p>123 Fourth Street</p> 
-    <p>Arkham MA, 65340</p>
+   <p>123 Fourth Street</p> 
+   <p>Arkham MA, 65340</p>
 
-    <p>colors@miskatonic.edu</p> 
+   <p>colors@miskatonic.edu</p> 
 
-    <p>Socialize</p>
+   <p>Socialize</p>
 
-    <p>Social media goes here</p>
+   <p>Social media goes here</p>
 
-    <p>Tools</p>
+   <p>Tools</p>
 
-    <p>Color tools go here</p> 
+   <p>Color tools go here</p> 
 
-    <p>News</p>
+   <p>News</p>
 
-    <p>Links to news go here</p> 
+   <p>Links to news go here</p> 
 
 </body>
 </html>
