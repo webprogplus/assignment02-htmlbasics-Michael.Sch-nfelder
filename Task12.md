@@ -37,10 +37,10 @@ You will be adding 3 kinds of values for the **href** attribute in your `<a>` el
         <li>Chartreuse Liqueur</li>
       </ul>
       <ol type ="1">
-        <li>In Nature</li>
-        <li>Psychology</li>
-        <li>Color Palettes</li>
-        <li>Chartreuse Liqueur</li>
+        <li><a href="Home" style="color: blue; text-decoration: underline;">Home</a></li>
+        <li>Tertiary Colors</li>
+        <li>Chartreuse</li>
+        
       </ol>
 
 
