@@ -23,10 +23,10 @@
         <li>Chartreuse Liqueur</li>
       </ul>
       <ol type ="1">
-        <li>In Nature</li>
-        <li>Psychology</li>
-        <li>Color Palettes</li>
-        <li>Chartreuse Liqueur</li>
+        <li>Home</li>
+        <li>Tertiary Colors</li>
+        <li>Chartreuse</li>
+        
       </ol>
 
 
